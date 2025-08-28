@@ -1,0 +1,1 @@
+Welcome to my collection of Python exercises developed during my university studies in Information Technology Management. This repository is meant to organize and showcase the practical exercises I complete as part of my coursework.
